@@ -2,12 +2,6 @@
 
 This repository is dedicated to the "Intro to Data Science" section of the GHOST science club. The section is designed to introduce participants to key concepts and methodologies related to data analysis and data science.
 
-<svg width="100%" height="50px">
-    <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="25px">
-        Data Analysis Process
-    </text>
-</svg>
-
 ![Data Anlysis Process](./imgs/data_analysis_process.png "")
 
 **Scope**

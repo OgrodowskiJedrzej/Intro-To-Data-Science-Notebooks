@@ -1,4 +1,23 @@
-# Intro-To-Data-Science-Notebooks
-This repo contains all notebooks used in our course Intro To Data Science.
+# Intro to Data Science
 
-<a href="https://drive.google.com/drive/folders/131U_i1BR37OHmKpcC2dYTXB4MsbTsnzG?usp=sharing">Other sources (access only for authors)</a>
+This repository is dedicated to the "Intro to Data Science" section of the GHOST science club. The section is designed to introduce participants to key concepts and methodologies related to data analysis and data science.
+
+![Data Anlysis Process](./imgs/data_analysis_process.png "")
+
+**Scope**
+
+The section focuses on the Data Analysis Process, covering the following topics:
+
+- **Linear Algebra**: Fundamental mathematical operations used in data analysis, such as matrices, vectors, and transformations.
+- **Statistics**: Statistical concepts that aid in understanding and interpreting data.
+- **Data Cleaning**: The process of cleaning data, identifying and correcting errors in datasets.
+- **Data Visualization**: Tools and techniques for presenting analysis results in graphical form.
+- **Exploratory Data Analysis (EDA)**: A process of exploring data to discover patterns, relationships, and trends.
+
+**Repository Contents**
+
+This repository contains educational resources that support participants in gaining practical skills in data science:
+
+- **Presentations**: Slides used during the meetings, covering the theoretical foundations of the discussed topics.
+- **Datasets**: Data used during the meetings for analysis and hands-on tasks.
+- **Notebooks**: Interactive notebooks with Python code that allow participants to work independently and experiment with data analysis.

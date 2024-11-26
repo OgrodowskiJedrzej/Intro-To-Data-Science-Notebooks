@@ -1,4 +1,4 @@
-Month,all fuels (utility-scale) thousand megawatthours,coal thousand megawatthours,natural gas thousand megawatthours,nuclear thousand megawatthours,conventional hydroelectric thousand megawatthours,wind thousand megawatthours,all solar thousand megawatthours
+Month,All,Coal,Natural gas,Nuclear,Hydroelectric,Wind,Solar
 Sep-23,358136.2599,60005.6758,164466.3568,65559.71,16496.04043,28193.29153,22192.58066
 Aug-23,423934.2574,78184.50094,199993.0422,69744.023,21145.86624,28504.16694,25350.26673
 Jul-23,425611.3284,78909.85665,200506.7592,69887.588,21237.80849,27867.90946,26538.55725
